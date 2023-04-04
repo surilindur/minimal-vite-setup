@@ -7,6 +7,9 @@ const engine: IQueryEngine = new QueryEngine()
 
 const queryString: string = 'SELECT * WHERE { ?s ?p ?o } LIMIT 10'
 
+// RDF document: http://dbpedia.org/resource/Leipzig
+// SPARQL endpoint: https://dbpedia.org/sparql
+
 const querySources: IContextSources = [
   'https://dbpedia.org/sparql'
 ]
