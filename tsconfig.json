@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "strict": true,
+    "isolatedModules": true,
+    "esModuleInterop": false,
+    "lib": ["ESNext", "DOM"],
+    "noImplicitAny": true,
+    "allowSyntheticDefaultImports": false
+  },
+  "include": ["src/*.ts", "vite.config.ts"]
+}
