@@ -1,4 +1,5 @@
 # Minimal Vite Setup for Comunica
+
 [![Build Status](https://github.com/surilindur/minimal-vite-setup//workflows/CI/badge.svg)](https://github.com/surilindur/minimal-vite-setup/actions?query=workflow%3A%22CI%22)
 
 Minimal example of a web application using [Comunica](https://comunica.dev/)
@@ -27,7 +28,3 @@ Finished
 ```
 
 **Note**: The GitHub Actions workflow currently does not check if the built application actually works, it just builds it. If there is time later, some kind of check might be added.
-
-## License
-This code is copyrighted by [Ghent University – imec](http://idlab.ugent.be/)
-and released under the [MIT license](http://opensource.org/licenses/MIT).
